@@ -1,3 +1,5 @@
 x = 1
 
-x = 
+x = 1
+./lib/a_syntax_error.rb
+x = 1
